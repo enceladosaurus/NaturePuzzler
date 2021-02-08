@@ -58,6 +58,7 @@
     <Compile Include="Assets\Scripts\Jellyfish.cs" />
     <Compile Include="Assets\Scripts\Fish.cs" />
     <Compile Include="Assets\Scripts\Pizza.cs" />
+    <Compile Include="Assets\Scripts\MainMenu.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
